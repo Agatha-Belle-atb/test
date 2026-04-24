@@ -166,7 +166,7 @@ hình ảnh topic 1:
 
 ![hinh 3](file_images/spaek_test_3.jpg)
 
-[Read_File_C](file_c/README.md)
+![Read_File_C](file_c/README.md)
 @import "file_c/README.md"
 
 
