@@ -79,7 +79,24 @@ Hoặc dùng thẻ mark của HTML5: <mark>Đoạn này cũng được highlight
 helooo  
 rrrytrytrrty
 
-
+```python
+print("fdgdg");
+```
+```json
+{
+  "name": "Nguyen Van A",
+  "age": 25,
+  "isStudent": false
+}
+```
+```cpp
+#include <iostream>
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+```
+đây là code C
 
 
 
