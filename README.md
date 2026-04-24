@@ -37,6 +37,7 @@ _từ cần in nghiêng_
 [hướng dẫn 2](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 [markdown](https://www.markdownguide.org/basic-syntax/)  
 [hướng dẫn tiếp theo trên github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Ngôn Ngữ TYPST](https://typst.app/play/)
 
 >đây là trích dẫn 1  
 >đây là trích dẫn 2  
