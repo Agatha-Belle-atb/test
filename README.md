@@ -160,6 +160,11 @@ A very long sentence.
 
 bobbyhadz.com
 
+hình ảnh topic 1:  
+![hinh 1](file_images/z7697155247211_d3dead1354cb33516029ca0927cf1ba6.jpg)
+![hình ảnh 2](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-anime-dep_054957453.gif)
+
+
 
 
 
