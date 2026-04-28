@@ -184,4 +184,5 @@ int main() {
     printf("Hệ thống khởi động thành công!\n");
     return 0;
 }
-
+```
+chúng ta đã gần hoàn thành
