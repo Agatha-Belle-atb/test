@@ -186,4 +186,11 @@ int main() {
 }
 ```
 </details>
+
+Để các dòng chữ viết tiếp theo không bị ẩn, bạn chỉ cần viết chúng nằm bên ngoài (phía dưới) thẻ đóng </details>.
+
+Thẻ <details> giống như một cái hộp. Mọi thứ bạn đặt trước thẻ </details> sẽ bị nhốt vào trong hộp và bị ẩn đi. Khi bạn đã "đóng nắp hộp" bằng thẻ </details>, thì mọi thứ bạn viết sau đó sẽ lại hiển thị bình thường ở bên ngoài.
+
 chúng ta đã gần hoàn thành
+
+
