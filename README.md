@@ -185,4 +185,5 @@ int main() {
     return 0;
 }
 ```
+</details>
 chúng ta đã gần hoàn thành
