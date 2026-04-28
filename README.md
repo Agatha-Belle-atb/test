@@ -174,5 +174,14 @@ Lý do thích: I love Tet because I have free time. I can relax and be happy wit
 ![Read_File_C](file_c/README.md)
 @import "file_c/README.md"
 
+<details>
+  <summary>Bấm vào đây để xem toàn bộ mã lệnh</summary>
 
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hệ thống khởi động thành công!\n");
+    return 0;
+}
 
