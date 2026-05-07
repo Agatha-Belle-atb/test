@@ -5,8 +5,8 @@
 ##### H5
 ###### H6
 
-[link code trực tuyến Markdowwn](https://www.jotbird.com/app#h6)
-[link tex](https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/)
+[link code trực tuyến Markdowwn](https://www.jotbird.com/app#h6)  
+[link tex](https://ftp.tu-chemnitz.de/pub/tug/historic/systems/texlive/)
 
 Ngoài ra, đối với H1 và H2, kiểu gạch chân:  
 ~~ta là siêu nhân~~
